@@ -25,5 +25,5 @@ Ochrana osobních údajů (GDPR):
 
 Vaše osobní údaje budou použity výhradně pro účely této soutěže a nebudou poskytnuty třetím stranám.
 Osobní údaje budou zpracovány v souladu s GDPR.
-Účastníci mají právo na přístup ke svým osobním údajům, jejich opravu nebo výmaz, omezení zpracování, vznést námitku proti zpracování a na přenositelnost údajů. Pro uplatnění těchto práv kontaktujte [[vaše kontaktní údaje]](https://www.facebook.com/tomas.balbinder/).
+Účastníci mají právo na přístup ke svým osobním údajům, jejich opravu nebo výmaz, omezení zpracování, vznést námitku proti zpracování a na přenositelnost údajů. Pro uplatnění těchto práv kontaktujte [[Tomáš Balbinder]](https://www.facebook.com/tomas.balbinder/).
 
