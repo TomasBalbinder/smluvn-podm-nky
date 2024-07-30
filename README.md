@@ -1,1 +1,1 @@
-# smluvn-podm-nky
+# smluvní-podmínky
