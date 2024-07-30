@@ -1,0 +1,1 @@
+# smluvn-podm-nky
